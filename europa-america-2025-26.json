@@ -53112,6 +53112,2820 @@
      }
     }
    ]
+  },
+  {
+   "pais": "sa",
+   "division": 1,
+   "clubes": [
+    {
+     "nombre": "Al-Nassr",
+     "ciudad": "Riad",
+     "reputacion": 86,
+     "color1": "#ffd400",
+     "color2": "#1a3a8c",
+     "estadio": "Al-Awwal Park",
+     "capacidad_estadio": 26004,
+     "plantilla_escudo": 5,
+     "tactica": {
+      "formacion": "4-5-1",
+      "perfil": "OFENSIVO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Bento",
+       "apellido": "Krepski",
+       "posicion": "POR",
+       "nivel": 83,
+       "edad": 27
+      },
+      {
+       "nombre": "Nawaf",
+       "apellido": "Al-Aqidi",
+       "posicion": "POR",
+       "nivel": 76,
+       "edad": 25
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Ghannam",
+       "posicion": "LD",
+       "nivel": 76,
+       "edad": 31
+      },
+      {
+       "nombre": "Faisal",
+       "apellido": "Al-Ghamdi",
+       "posicion": "LD",
+       "nivel": 72,
+       "edad": 23
+      },
+      {
+       "nombre": "Iñigo",
+       "apellido": "Martínez",
+       "posicion": "DFC",
+       "nivel": 83,
+       "edad": 35
+      },
+      {
+       "nombre": "Mohamed",
+       "apellido": "Simakan",
+       "posicion": "DFC",
+       "nivel": 81,
+       "edad": 26
+      },
+      {
+       "nombre": "Ali",
+       "apellido": "Lajami",
+       "posicion": "DFC",
+       "nivel": 77,
+       "edad": 29
+      },
+      {
+       "nombre": "Nawaf",
+       "apellido": "Boushal",
+       "posicion": "LI",
+       "nivel": 75,
+       "edad": 27
+      },
+      {
+       "nombre": "Meshari",
+       "apellido": "Al-Nemer",
+       "posicion": "LI",
+       "nivel": 70,
+       "edad": 21
+      },
+      {
+       "nombre": "Abdullah",
+       "apellido": "Al-Khaibari",
+       "posicion": "MCD",
+       "nivel": 78,
+       "edad": 28
+      },
+      {
+       "nombre": "Ali",
+       "apellido": "Al-Hassan",
+       "posicion": "MCD",
+       "nivel": 77,
+       "edad": 28
+      },
+      {
+       "nombre": "Marcelo",
+       "apellido": "Brozović",
+       "posicion": "MC",
+       "nivel": 82,
+       "edad": 33
+      },
+      {
+       "nombre": "Saad",
+       "apellido": "Al-Harbi",
+       "posicion": "MC",
+       "nivel": 74,
+       "edad": 20
+      },
+      {
+       "nombre": "João",
+       "apellido": "Félix",
+       "posicion": "MCO",
+       "nivel": 84,
+       "edad": 26
+      },
+      {
+       "nombre": "Ângelo",
+       "apellido": "Gabriel",
+       "posicion": "MD",
+       "nivel": 78,
+       "edad": 21
+      },
+      {
+       "nombre": "Abdulrahman",
+       "apellido": "Ghareeb",
+       "posicion": "MI",
+       "nivel": 75,
+       "edad": 29
+      },
+      {
+       "nombre": "Kingsley",
+       "apellido": "Coman",
+       "posicion": "ED",
+       "nivel": 83,
+       "edad": 30
+      },
+      {
+       "nombre": "Sadio",
+       "apellido": "Mané",
+       "posicion": "EI",
+       "nivel": 82,
+       "edad": 34
+      },
+      {
+       "nombre": "Cristiano",
+       "apellido": "Ronaldo",
+       "posicion": "DC",
+       "nivel": 88,
+       "edad": 41
+      },
+      {
+       "nombre": "Mohammed",
+       "apellido": "Maran",
+       "posicion": "DC",
+       "nivel": 76,
+       "edad": 24
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Hilal",
+     "ciudad": "Riad",
+     "reputacion": 85,
+     "color1": "#1543a5",
+     "color2": "#ffffff",
+     "estadio": "Kingdom Arena",
+     "capacidad_estadio": 26090,
+     "plantilla_escudo": 2,
+     "tactica": {
+      "formacion": "3-5-2",
+      "perfil": "EQUILIBRADO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Yassine",
+       "apellido": "Bounou",
+       "posicion": "POR",
+       "nivel": 84,
+       "edad": 35
+      },
+      {
+       "nombre": "Mohammed",
+       "apellido": "Al-Owais",
+       "posicion": "POR",
+       "nivel": 74,
+       "edad": 34
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Harbi",
+       "posicion": "LD",
+       "nivel": 71,
+       "edad": 25
+      },
+      {
+       "nombre": "Abdullah",
+       "apellido": "Al-Shammari",
+       "posicion": "LD",
+       "nivel": 68,
+       "edad": 21
+      },
+      {
+       "nombre": "Kalidou",
+       "apellido": "Koulibaly",
+       "posicion": "DFC",
+       "nivel": 82,
+       "edad": 35
+      },
+      {
+       "nombre": "Hassan",
+       "apellido": "Al-Tambakti",
+       "posicion": "DFC",
+       "nivel": 78,
+       "edad": 26
+      },
+      {
+       "nombre": "Faisal",
+       "apellido": "Al-Ghamdi",
+       "posicion": "DFC",
+       "nivel": 72,
+       "edad": 24
+      },
+      {
+       "nombre": "Théo",
+       "apellido": "Hernández",
+       "posicion": "LI",
+       "nivel": 85,
+       "edad": 28
+      },
+      {
+       "nombre": "Renan",
+       "apellido": "Lodi",
+       "posicion": "LI",
+       "nivel": 80,
+       "edad": 28
+      },
+      {
+       "nombre": "Mohamed",
+       "apellido": "Kanno",
+       "posicion": "MCD",
+       "nivel": 77,
+       "edad": 31
+      },
+      {
+       "nombre": "Nasser",
+       "apellido": "Al-Otaibi",
+       "posicion": "MCD",
+       "nivel": 70,
+       "edad": 26
+      },
+      {
+       "nombre": "Rúben",
+       "apellido": "Neves",
+       "posicion": "MC",
+       "nivel": 84,
+       "edad": 29
+      },
+      {
+       "nombre": "Sergej",
+       "apellido": "Milinković-Savić",
+       "posicion": "MC",
+       "nivel": 85,
+       "edad": 31
+      },
+      {
+       "nombre": "Karim",
+       "apellido": "Benzema",
+       "posicion": "MCO",
+       "nivel": 84,
+       "edad": 38
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Mutairi",
+       "posicion": "MD",
+       "nivel": 67,
+       "edad": 22
+      },
+      {
+       "nombre": "Nasser",
+       "apellido": "Al-Dawsari",
+       "posicion": "MI",
+       "nivel": 70,
+       "edad": 27
+      },
+      {
+       "nombre": "Malcom",
+       "apellido": "Oliveira",
+       "posicion": "ED",
+       "nivel": 82,
+       "edad": 29
+      },
+      {
+       "nombre": "Salem",
+       "apellido": "Al-Dawsari",
+       "posicion": "EI",
+       "nivel": 83,
+       "edad": 34
+      },
+      {
+       "nombre": "Darwin",
+       "apellido": "Núñez",
+       "posicion": "DC",
+       "nivel": 83,
+       "edad": 27
+      },
+      {
+       "nombre": "Marcos",
+       "apellido": "Leonardo",
+       "posicion": "DC",
+       "nivel": 81,
+       "edad": 23
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Ahli",
+     "ciudad": "Yeda",
+     "reputacion": 82,
+     "color1": "#0a8f4c",
+     "color2": "#ffffff",
+     "estadio": "King Abdullah Sports City",
+     "capacidad_estadio": 60342,
+     "plantilla_escudo": 4,
+     "tactica": {
+      "formacion": "4-5-1",
+      "perfil": "OFENSIVO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Édouard",
+       "apellido": "Mendy",
+       "posicion": "POR",
+       "nivel": 82,
+       "edad": 34
+      },
+      {
+       "nombre": "Abdullah",
+       "apellido": "Al-Harbi",
+       "posicion": "POR",
+       "nivel": 72,
+       "edad": 27
+      },
+      {
+       "nombre": "Saud",
+       "apellido": "Al-Zahrani",
+       "posicion": "LD",
+       "nivel": 73,
+       "edad": 26
+      },
+      {
+       "nombre": "Nawaf",
+       "apellido": "Al-Ghamdi",
+       "posicion": "LD",
+       "nivel": 71,
+       "edad": 22
+      },
+      {
+       "nombre": "Merih",
+       "apellido": "Demiral",
+       "posicion": "DFC",
+       "nivel": 81,
+       "edad": 28
+      },
+      {
+       "nombre": "Roger",
+       "apellido": "Ibañez",
+       "posicion": "DFC",
+       "nivel": 81,
+       "edad": 27
+      },
+      {
+       "nombre": "Hassan",
+       "apellido": "Al-Qahtani",
+       "posicion": "DFC",
+       "nivel": 74,
+       "edad": 29
+      },
+      {
+       "nombre": "Fahad",
+       "apellido": "Al-Mutairi",
+       "posicion": "LI",
+       "nivel": 73,
+       "edad": 28
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Amri",
+       "posicion": "LI",
+       "nivel": 71,
+       "edad": 21
+      },
+      {
+       "nombre": "Majed",
+       "apellido": "Al-Otaibi",
+       "posicion": "MCD",
+       "nivel": 74,
+       "edad": 30
+      },
+      {
+       "nombre": "Khalid",
+       "apellido": "Al-Malki",
+       "posicion": "MCD",
+       "nivel": 72,
+       "edad": 24
+      },
+      {
+       "nombre": "Franck",
+       "apellido": "Kessié",
+       "posicion": "MC",
+       "nivel": 81,
+       "edad": 29
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Rashidi",
+       "posicion": "MC",
+       "nivel": 72,
+       "edad": 25
+      },
+      {
+       "nombre": "Enzo",
+       "apellido": "Millot",
+       "posicion": "MCO",
+       "nivel": 79,
+       "edad": 24
+      },
+      {
+       "nombre": "Yasser",
+       "apellido": "Al-Sahafi",
+       "posicion": "MD",
+       "nivel": 72,
+       "edad": 23
+      },
+      {
+       "nombre": "Rakan",
+       "apellido": "Al-Subaie",
+       "posicion": "MI",
+       "nivel": 71,
+       "edad": 20
+      },
+      {
+       "nombre": "Riyad",
+       "apellido": "Mahrez",
+       "posicion": "ED",
+       "nivel": 82,
+       "edad": 35
+      },
+      {
+       "nombre": "Wenderson",
+       "apellido": "Galeno",
+       "posicion": "EI",
+       "nivel": 80,
+       "edad": 28
+      },
+      {
+       "nombre": "Ivan",
+       "apellido": "Toney",
+       "posicion": "DC",
+       "nivel": 82,
+       "edad": 30
+      },
+      {
+       "nombre": "Firas",
+       "apellido": "Al-Buraikan",
+       "posicion": "DC",
+       "nivel": 77,
+       "edad": 26
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Qadsiah",
+     "ciudad": "Khobar",
+     "reputacion": 79,
+     "color1": "#c42626",
+     "color2": "#f5d434",
+     "estadio": "Prince Mohamed bin Fahd",
+     "capacidad_estadio": 22042,
+     "plantilla_escudo": 6,
+     "tactica": {
+      "formacion": "4-3-3",
+      "perfil": "EQUILIBRADO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Koen",
+       "apellido": "Casteels",
+       "posicion": "POR",
+       "nivel": 81,
+       "edad": 34
+      },
+      {
+       "nombre": "Abdullah",
+       "apellido": "Al-Shammari",
+       "posicion": "POR",
+       "nivel": 66,
+       "edad": 24
+      },
+      {
+       "nombre": "Nahitan",
+       "apellido": "Nández",
+       "posicion": "LD",
+       "nivel": 78,
+       "edad": 30
+      },
+      {
+       "nombre": "Fahad",
+       "apellido": "Al-Dossari",
+       "posicion": "LD",
+       "nivel": 68,
+       "edad": 22
+      },
+      {
+       "nombre": "Nacho",
+       "apellido": "Fernández",
+       "posicion": "DFC",
+       "nivel": 79,
+       "edad": 36
+      },
+      {
+       "nombre": "Gastón",
+       "apellido": "Álvarez",
+       "posicion": "DFC",
+       "nivel": 76,
+       "edad": 26
+      },
+      {
+       "nombre": "Saad",
+       "apellido": "Al-Harbi",
+       "posicion": "DFC",
+       "nivel": 69,
+       "edad": 26
+      },
+      {
+       "nombre": "Souffian",
+       "apellido": "El Karouani",
+       "posicion": "LI",
+       "nivel": 75,
+       "edad": 25
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Ghamdi",
+       "posicion": "LI",
+       "nivel": 67,
+       "edad": 21
+      },
+      {
+       "nombre": "Julian",
+       "apellido": "Weigl",
+       "posicion": "MCD",
+       "nivel": 77,
+       "edad": 30
+      },
+      {
+       "nombre": "Nawaf",
+       "apellido": "Al-Otaibi",
+       "posicion": "MCD",
+       "nivel": 70,
+       "edad": 28
+      },
+      {
+       "nombre": "Otávio",
+       "apellido": "Monteiro",
+       "posicion": "MC",
+       "nivel": 78,
+       "edad": 31
+      },
+      {
+       "nombre": "Gabriel",
+       "apellido": "Carvalho",
+       "posicion": "MC",
+       "nivel": 74,
+       "edad": 19
+      },
+      {
+       "nombre": "Musab",
+       "apellido": "Al-Juwayr",
+       "posicion": "MCO",
+       "nivel": 76,
+       "edad": 23
+      },
+      {
+       "nombre": "Salem",
+       "apellido": "Al-Zahrani",
+       "posicion": "MD",
+       "nivel": 71,
+       "edad": 23
+      },
+      {
+       "nombre": "Rayan",
+       "apellido": "Al-Qahtani",
+       "posicion": "MI",
+       "nivel": 70,
+       "edad": 20
+      },
+      {
+       "nombre": "Christopher",
+       "apellido": "Bonsu Baah",
+       "posicion": "ED",
+       "nivel": 74,
+       "edad": 21
+      },
+      {
+       "nombre": "Julián",
+       "apellido": "Quiñones",
+       "posicion": "EI",
+       "nivel": 78,
+       "edad": 29
+      },
+      {
+       "nombre": "Mateo",
+       "apellido": "Retegui",
+       "posicion": "DC",
+       "nivel": 82,
+       "edad": 27
+      },
+      {
+       "nombre": "Majed",
+       "apellido": "Al-Subaie",
+       "posicion": "DC",
+       "nivel": 71,
+       "edad": 25
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Ittihad",
+     "ciudad": "Yeda",
+     "reputacion": 76,
+     "color1": "#f5c518",
+     "color2": "#111111",
+     "estadio": "King Abdullah Sports City",
+     "capacidad_estadio": 60342,
+     "plantilla_escudo": 3,
+     "tactica": {
+      "formacion": "4-4-2",
+      "perfil": "OFENSIVO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Predrag",
+       "apellido": "Rajković",
+       "posicion": "POR",
+       "nivel": 79,
+       "edad": 30
+      },
+      {
+       "nombre": "Abdullah",
+       "apellido": "Al-Jadani",
+       "posicion": "POR",
+       "nivel": 66,
+       "edad": 24
+      },
+      {
+       "nombre": "Ahmed",
+       "apellido": "Al-Harbi",
+       "posicion": "LD",
+       "nivel": 70,
+       "edad": 26
+      },
+      {
+       "nombre": "Faisal",
+       "apellido": "Al-Ghamdi",
+       "posicion": "LD",
+       "nivel": 67,
+       "edad": 22
+      },
+      {
+       "nombre": "Saad",
+       "apellido": "Al-Mousa",
+       "posicion": "DFC",
+       "nivel": 71,
+       "edad": 28
+      },
+      {
+       "nombre": "Omar",
+       "apellido": "Al-Zahrani",
+       "posicion": "DFC",
+       "nivel": 69,
+       "edad": 25
+      },
+      {
+       "nombre": "Khalid",
+       "apellido": "Al-Dossari",
+       "posicion": "DFC",
+       "nivel": 68,
+       "edad": 21
+      },
+      {
+       "nombre": "Bandar",
+       "apellido": "Al-Amri",
+       "posicion": "LI",
+       "nivel": 68,
+       "edad": 27
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Otaibi",
+       "posicion": "LI",
+       "nivel": 67,
+       "edad": 20
+      },
+      {
+       "nombre": "Danilo",
+       "apellido": "Pereira",
+       "posicion": "MCD",
+       "nivel": 78,
+       "edad": 34
+      },
+      {
+       "nombre": "Fabinho",
+       "apellido": "Tavares",
+       "posicion": "MCD",
+       "nivel": 78,
+       "edad": 32
+      },
+      {
+       "nombre": "Houssem",
+       "apellido": "Aouar",
+       "posicion": "MC",
+       "nivel": 77,
+       "edad": 27
+      },
+      {
+       "nombre": "Talal",
+       "apellido": "Al-Malki",
+       "posicion": "MC",
+       "nivel": 70,
+       "edad": 29
+      },
+      {
+       "nombre": "Abdulrahman",
+       "apellido": "Al-Aboud",
+       "posicion": "MCO",
+       "nivel": 74,
+       "edad": 30
+      },
+      {
+       "nombre": "Abdulaziz",
+       "apellido": "Al-Bishi",
+       "posicion": "MD",
+       "nivel": 69,
+       "edad": 26
+      },
+      {
+       "nombre": "Rayan",
+       "apellido": "Al-Juhani",
+       "posicion": "MI",
+       "nivel": 68,
+       "edad": 19
+      },
+      {
+       "nombre": "Moussa",
+       "apellido": "Diaby",
+       "posicion": "ED",
+       "nivel": 81,
+       "edad": 26
+      },
+      {
+       "nombre": "Steven",
+       "apellido": "Bergwijn",
+       "posicion": "EI",
+       "nivel": 78,
+       "edad": 28
+      },
+      {
+       "nombre": "Saleh",
+       "apellido": "Al-Shehri",
+       "posicion": "DC",
+       "nivel": 74,
+       "edad": 32
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Shammari",
+       "posicion": "DC",
+       "nivel": 68,
+       "edad": 23
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Taawoun",
+     "ciudad": "Buraidah",
+     "reputacion": 72,
+     "color1": "#1f6fce",
+     "color2": "#ffd700",
+     "estadio": "King Abdullah Sport City Buraidah",
+     "capacidad_estadio": 30180,
+     "plantilla_escudo": 7,
+     "tactica": {
+      "formacion": "4-4-2",
+      "perfil": "EQUILIBRADO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Harbi",
+       "posicion": "POR",
+       "nivel": 69,
+       "edad": 27
+      },
+      {
+       "nombre": "Fahad",
+       "apellido": "Al-Mutairi",
+       "posicion": "POR",
+       "nivel": 61,
+       "edad": 22
+      },
+      {
+       "nombre": "Saeed",
+       "apellido": "Al-Dossari",
+       "posicion": "LD",
+       "nivel": 67,
+       "edad": 26
+      },
+      {
+       "nombre": "Nawaf",
+       "apellido": "Al-Shammari",
+       "posicion": "LD",
+       "nivel": 62,
+       "edad": 21
+      },
+      {
+       "nombre": "Éverton",
+       "apellido": "Camargo",
+       "posicion": "DFC",
+       "nivel": 74,
+       "edad": 29
+      },
+      {
+       "nombre": "Abdullah",
+       "apellido": "Al-Qahtani",
+       "posicion": "DFC",
+       "nivel": 68,
+       "edad": 28
+      },
+      {
+       "nombre": "Hamad",
+       "apellido": "Al-Subaie",
+       "posicion": "DFC",
+       "nivel": 63,
+       "edad": 23
+      },
+      {
+       "nombre": "Mishal",
+       "apellido": "Al-Zubaidi",
+       "posicion": "LI",
+       "nivel": 66,
+       "edad": 25
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Ghamdi",
+       "posicion": "LI",
+       "nivel": 60,
+       "edad": 20
+      },
+      {
+       "nombre": "Youssef",
+       "apellido": "Benkhaled",
+       "posicion": "MCD",
+       "nivel": 72,
+       "edad": 27
+      },
+      {
+       "nombre": "Nasser",
+       "apellido": "Al-Otaibi",
+       "posicion": "MCD",
+       "nivel": 65,
+       "edad": 24
+      },
+      {
+       "nombre": "Nemanja",
+       "apellido": "Vukašinović",
+       "posicion": "MC",
+       "nivel": 73,
+       "edad": 28
+      },
+      {
+       "nombre": "Salem",
+       "apellido": "Al-Anazi",
+       "posicion": "MC",
+       "nivel": 64,
+       "edad": 22
+      },
+      {
+       "nombre": "Thiago",
+       "apellido": "Farias",
+       "posicion": "MCO",
+       "nivel": 75,
+       "edad": 26
+      },
+      {
+       "nombre": "Khalid",
+       "apellido": "Al-Juhani",
+       "posicion": "MD",
+       "nivel": 67,
+       "edad": 25
+      },
+      {
+       "nombre": "Majed",
+       "apellido": "Al-Sahafi",
+       "posicion": "MI",
+       "nivel": 66,
+       "edad": 24
+      },
+      {
+       "nombre": "Lamine",
+       "apellido": "Dampha",
+       "posicion": "ED",
+       "nivel": 73,
+       "edad": 26
+      },
+      {
+       "nombre": "Rayan",
+       "apellido": "Al-Amri",
+       "posicion": "EI",
+       "nivel": 68,
+       "edad": 23
+      },
+      {
+       "nombre": "Bojan",
+       "apellido": "Stanković",
+       "posicion": "DC",
+       "nivel": 74,
+       "edad": 29
+      },
+      {
+       "nombre": "Haitham",
+       "apellido": "Al-Faraj",
+       "posicion": "DC",
+       "nivel": 65,
+       "edad": 27
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Ettifaq",
+     "ciudad": "Dammam",
+     "reputacion": 70,
+     "color1": "#d0021b",
+     "color2": "#0a6e3c",
+     "estadio": "EGO Stadium",
+     "capacidad_estadio": 12984,
+     "plantilla_escudo": 8,
+     "tactica": {
+      "formacion": "4-4-2",
+      "perfil": "EQUILIBRADO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Fawaz",
+       "apellido": "Al-Sqoor",
+       "posicion": "POR",
+       "nivel": 68,
+       "edad": 25
+      },
+      {
+       "nombre": "Khaled",
+       "apellido": "Al-Muwallad",
+       "posicion": "POR",
+       "nivel": 60,
+       "edad": 22
+      },
+      {
+       "nombre": "Meshal",
+       "apellido": "Al-Enazi",
+       "posicion": "LD",
+       "nivel": 66,
+       "edad": 26
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Harbi",
+       "posicion": "LD",
+       "nivel": 59,
+       "edad": 21
+      },
+      {
+       "nombre": "Marko",
+       "apellido": "Vukicevic",
+       "posicion": "DFC",
+       "nivel": 72,
+       "edad": 29
+      },
+      {
+       "nombre": "Rafael",
+       "apellido": "Cardoso",
+       "posicion": "DFC",
+       "nivel": 71,
+       "edad": 27
+      },
+      {
+       "nombre": "Hamad",
+       "apellido": "Al-Sanea",
+       "posicion": "DFC",
+       "nivel": 64,
+       "edad": 24
+      },
+      {
+       "nombre": "Hazem",
+       "apellido": "Al-Zahrani",
+       "posicion": "LI",
+       "nivel": 65,
+       "edad": 28
+      },
+      {
+       "nombre": "Nasser",
+       "apellido": "Al-Dossari",
+       "posicion": "LI",
+       "nivel": 58,
+       "edad": 20
+      },
+      {
+       "nombre": "Ousmane",
+       "apellido": "Camara",
+       "posicion": "MCD",
+       "nivel": 73,
+       "edad": 27
+      },
+      {
+       "nombre": "Mohammed",
+       "apellido": "Al-Kuwaykibi",
+       "posicion": "MCD",
+       "nivel": 67,
+       "edad": 27
+      },
+      {
+       "nombre": "Nemanja",
+       "apellido": "Petrovic",
+       "posicion": "MC",
+       "nivel": 72,
+       "edad": 30
+      },
+      {
+       "nombre": "Faisal",
+       "apellido": "Al-Ghamdi",
+       "posicion": "MC",
+       "nivel": 68,
+       "edad": 23
+      },
+      {
+       "nombre": "Marwan",
+       "apellido": "Al-Sahafi",
+       "posicion": "MCO",
+       "nivel": 70,
+       "edad": 26
+      },
+      {
+       "nombre": "Haitham",
+       "apellido": "Asiri",
+       "posicion": "MD",
+       "nivel": 67,
+       "edad": 24
+      },
+      {
+       "nombre": "Wesley",
+       "apellido": "Ribeiro",
+       "posicion": "MI",
+       "nivel": 72,
+       "edad": 26
+      },
+      {
+       "nombre": "Abdulrahman",
+       "apellido": "Al-Aboud",
+       "posicion": "ED",
+       "nivel": 67,
+       "edad": 27
+      },
+      {
+       "nombre": "Salem",
+       "apellido": "Al-Najdi",
+       "posicion": "EI",
+       "nivel": 63,
+       "edad": 22
+      },
+      {
+       "nombre": "Emmanuel",
+       "apellido": "Okereke",
+       "posicion": "DC",
+       "nivel": 74,
+       "edad": 28
+      },
+      {
+       "nombre": "Saad",
+       "apellido": "Al-Mousa",
+       "posicion": "DC",
+       "nivel": 64,
+       "edad": 21
+      }
+     ]
+    },
+    {
+     "nombre": "Neom SC",
+     "ciudad": "Tabuk",
+     "reputacion": 67,
+     "color1": "#19c3e6",
+     "color2": "#0a2540",
+     "estadio": "King Khalid Sport City",
+     "capacidad_estadio": 12000,
+     "plantilla_escudo": 1,
+     "tactica": {
+      "formacion": "4-3-3",
+      "perfil": "EQUILIBRADO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Shammari",
+       "posicion": "POR",
+       "nivel": 66,
+       "edad": 27
+      },
+      {
+       "nombre": "Rakan",
+       "apellido": "Al-Otaibi",
+       "posicion": "POR",
+       "nivel": 60,
+       "edad": 22
+      },
+      {
+       "nombre": "Saud",
+       "apellido": "Al-Zahrani",
+       "posicion": "LD",
+       "nivel": 67,
+       "edad": 26
+      },
+      {
+       "nombre": "Meshal",
+       "apellido": "Al-Mutairi",
+       "posicion": "LD",
+       "nivel": 62,
+       "edad": 21
+      },
+      {
+       "nombre": "Rafael",
+       "apellido": "Cardoso",
+       "posicion": "DFC",
+       "nivel": 71,
+       "edad": 28
+      },
+      {
+       "nombre": "Hamdan",
+       "apellido": "Al-Balawi",
+       "posicion": "DFC",
+       "nivel": 66,
+       "edad": 29
+      },
+      {
+       "nombre": "Ziyad",
+       "apellido": "Al-Juhani",
+       "posicion": "DFC",
+       "nivel": 61,
+       "edad": 20
+      },
+      {
+       "nombre": "Abdulrahman",
+       "apellido": "Al-Shehri",
+       "posicion": "LI",
+       "nivel": 66,
+       "edad": 25
+      },
+      {
+       "nombre": "Faris",
+       "apellido": "Al-Ghamdi",
+       "posicion": "LI",
+       "nivel": 61,
+       "edad": 23
+      },
+      {
+       "nombre": "Ivan",
+       "apellido": "Marušić",
+       "posicion": "MCD",
+       "nivel": 70,
+       "edad": 29
+      },
+      {
+       "nombre": "Khaled",
+       "apellido": "Al-Subaie",
+       "posicion": "MCD",
+       "nivel": 64,
+       "edad": 24
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Harbi",
+       "posicion": "MC",
+       "nivel": 66,
+       "edad": 27
+      },
+      {
+       "nombre": "Majed",
+       "apellido": "Al-Rashidi",
+       "posicion": "MC",
+       "nivel": 64,
+       "edad": 22
+      },
+      {
+       "nombre": "Nemanja",
+       "apellido": "Ristović",
+       "posicion": "MCO",
+       "nivel": 72,
+       "edad": 27
+      },
+      {
+       "nombre": "Bader",
+       "apellido": "Al-Amri",
+       "posicion": "MD",
+       "nivel": 66,
+       "edad": 25
+      },
+      {
+       "nombre": "Nasser",
+       "apellido": "Al-Sahli",
+       "posicion": "MI",
+       "nivel": 65,
+       "edad": 24
+      },
+      {
+       "nombre": "Lucas",
+       "apellido": "Peixoto",
+       "posicion": "ED",
+       "nivel": 71,
+       "edad": 25
+      },
+      {
+       "nombre": "Ayman",
+       "apellido": "Al-Johani",
+       "posicion": "EI",
+       "nivel": 67,
+       "edad": 23
+      },
+      {
+       "nombre": "Yao",
+       "apellido": "Kouassi",
+       "posicion": "DC",
+       "nivel": 73,
+       "edad": 26
+      },
+      {
+       "nombre": "Omar",
+       "apellido": "Al-Fadhli",
+       "posicion": "DC",
+       "nivel": 63,
+       "edad": 21
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Hazem",
+     "ciudad": "Ar Rass",
+     "reputacion": 64,
+     "color1": "#cc2233",
+     "color2": "#f5c518",
+     "estadio": "Al-Hazem Club Stadium",
+     "capacidad_estadio": 5100,
+     "plantilla_escudo": 4,
+     "tactica": {
+      "formacion": "4-5-1",
+      "perfil": "DEFENSIVO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Zaid",
+       "apellido": "Al-Bawardi",
+       "posicion": "POR",
+       "nivel": 67,
+       "edad": 27
+      },
+      {
+       "nombre": "Abdullah",
+       "apellido": "Al-Jadani",
+       "posicion": "POR",
+       "nivel": 63,
+       "edad": 24
+      },
+      {
+       "nombre": "Saad",
+       "apellido": "Al-Mousa",
+       "posicion": "LD",
+       "nivel": 66,
+       "edad": 28
+      },
+      {
+       "nombre": "Fahad",
+       "apellido": "Al-Sobhi",
+       "posicion": "LD",
+       "nivel": 61,
+       "edad": 21
+      },
+      {
+       "nombre": "Nemanja",
+       "apellido": "Vukovic",
+       "posicion": "DFC",
+       "nivel": 67,
+       "edad": 29
+      },
+      {
+       "nombre": "Hamdan",
+       "apellido": "Al-Ruwaili",
+       "posicion": "DFC",
+       "nivel": 66,
+       "edad": 26
+      },
+      {
+       "nombre": "Majed",
+       "apellido": "Al-Harbi",
+       "posicion": "DFC",
+       "nivel": 64,
+       "edad": 23
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Anazi",
+       "posicion": "LI",
+       "nivel": 65,
+       "edad": 27
+      },
+      {
+       "nombre": "Nawaf",
+       "apellido": "Al-Qumairi",
+       "posicion": "LI",
+       "nivel": 59,
+       "edad": 20
+      },
+      {
+       "nombre": "Serge",
+       "apellido": "Ndoumbe",
+       "posicion": "MCD",
+       "nivel": 67,
+       "edad": 28
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Mutairi",
+       "posicion": "MCD",
+       "nivel": 65,
+       "edad": 25
+      },
+      {
+       "nombre": "Douglas",
+       "apellido": "Ferreira",
+       "posicion": "MC",
+       "nivel": 67,
+       "edad": 27
+      },
+      {
+       "nombre": "Khalid",
+       "apellido": "Al-Ghamdi",
+       "posicion": "MC",
+       "nivel": 64,
+       "edad": 24
+      },
+      {
+       "nombre": "Yasir",
+       "apellido": "Al-Dossari",
+       "posicion": "MCO",
+       "nivel": 67,
+       "edad": 26
+      },
+      {
+       "nombre": "Salem",
+       "apellido": "Al-Najei",
+       "posicion": "MD",
+       "nivel": 65,
+       "edad": 23
+      },
+      {
+       "nombre": "Rayan",
+       "apellido": "Al-Shammari",
+       "posicion": "MI",
+       "nivel": 64,
+       "edad": 22
+      },
+      {
+       "nombre": "Cauê",
+       "apellido": "Ribeiro",
+       "posicion": "ED",
+       "nivel": 67,
+       "edad": 25
+      },
+      {
+       "nombre": "Adama",
+       "apellido": "Konté",
+       "posicion": "EI",
+       "nivel": 67,
+       "edad": 24
+      },
+      {
+       "nombre": "Wanderson",
+       "apellido": "Costa",
+       "posicion": "DC",
+       "nivel": 67,
+       "edad": 29
+      },
+      {
+       "nombre": "Faisal",
+       "apellido": "Al-Subiani",
+       "posicion": "DC",
+       "nivel": 62,
+       "edad": 22
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Fayha",
+     "ciudad": "Majmaah",
+     "reputacion": 62,
+     "color1": "#f28c1e",
+     "color2": "#1f3a93",
+     "estadio": "Majmaah Sports City",
+     "capacidad_estadio": 6843,
+     "plantilla_escudo": 5,
+     "tactica": {
+      "formacion": "5-4-1",
+      "perfil": "DEFENSIVO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Abdullah",
+       "apellido": "Al-Owaishir",
+       "posicion": "POR",
+       "nivel": 66,
+       "edad": 29
+      },
+      {
+       "nombre": "Saad",
+       "apellido": "Al-Harbi",
+       "posicion": "POR",
+       "nivel": 57,
+       "edad": 21
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Anazi",
+       "posicion": "LD",
+       "nivel": 65,
+       "edad": 26
+      },
+      {
+       "nombre": "Mohammed",
+       "apellido": "Al-Qahtani",
+       "posicion": "LD",
+       "nivel": 62,
+       "edad": 23
+      },
+      {
+       "nombre": "Marko",
+       "apellido": "Djurovic",
+       "posicion": "DFC",
+       "nivel": 66,
+       "edad": 29
+      },
+      {
+       "nombre": "Hamdan",
+       "apellido": "Al-Shamrani",
+       "posicion": "DFC",
+       "nivel": 65,
+       "edad": 27
+      },
+      {
+       "nombre": "Nawaf",
+       "apellido": "Al-Subaie",
+       "posicion": "DFC",
+       "nivel": 63,
+       "edad": 24
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Mutairi",
+       "posicion": "LI",
+       "nivel": 65,
+       "edad": 28
+      },
+      {
+       "nombre": "Rayan",
+       "apellido": "Al-Dossari",
+       "posicion": "LI",
+       "nivel": 61,
+       "edad": 20
+      },
+      {
+       "nombre": "Moussa",
+       "apellido": "Diakite",
+       "posicion": "MCD",
+       "nivel": 66,
+       "edad": 27
+      },
+      {
+       "nombre": "Abdulrahman",
+       "apellido": "Al-Ghamdi",
+       "posicion": "MCD",
+       "nivel": 64,
+       "edad": 25
+      },
+      {
+       "nombre": "Faisal",
+       "apellido": "Al-Zahrani",
+       "posicion": "MC",
+       "nivel": 65,
+       "edad": 26
+      },
+      {
+       "nombre": "Khaled",
+       "apellido": "Al-Juhani",
+       "posicion": "MC",
+       "nivel": 64,
+       "edad": 30
+      },
+      {
+       "nombre": "Caio",
+       "apellido": "Ferreira",
+       "posicion": "MCO",
+       "nivel": 66,
+       "edad": 28
+      },
+      {
+       "nombre": "Meshari",
+       "apellido": "Al-Rashidi",
+       "posicion": "MD",
+       "nivel": 64,
+       "edad": 24
+      },
+      {
+       "nombre": "Hattan",
+       "apellido": "Al-Amri",
+       "posicion": "MI",
+       "nivel": 64,
+       "edad": 25
+      },
+      {
+       "nombre": "Kelechi",
+       "apellido": "Obinna",
+       "posicion": "ED",
+       "nivel": 66,
+       "edad": 26
+      },
+      {
+       "nombre": "Munir",
+       "apellido": "Al-Shehri",
+       "posicion": "EI",
+       "nivel": 64,
+       "edad": 22
+      },
+      {
+       "nombre": "Wesley",
+       "apellido": "Batista",
+       "posicion": "DC",
+       "nivel": 66,
+       "edad": 29
+      },
+      {
+       "nombre": "Badr",
+       "apellido": "Al-Salem",
+       "posicion": "DC",
+       "nivel": 61,
+       "edad": 21
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Fateh",
+     "ciudad": "Al-Mubarraz",
+     "reputacion": 60,
+     "color1": "#1f6fce",
+     "color2": "#ffffff",
+     "estadio": "Al-Fateh Stadium",
+     "capacidad_estadio": 11851,
+     "plantilla_escudo": 2,
+     "tactica": {
+      "formacion": "4-4-2",
+      "perfil": "EQUILIBRADO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Jassem",
+       "apellido": "Al-Qarni",
+       "posicion": "POR",
+       "nivel": 65,
+       "edad": 28
+      },
+      {
+       "nombre": "Malek",
+       "apellido": "Al-Subaie",
+       "posicion": "POR",
+       "nivel": 60,
+       "edad": 22
+      },
+      {
+       "nombre": "Saad",
+       "apellido": "Al-Mousa",
+       "posicion": "LD",
+       "nivel": 64,
+       "edad": 26
+      },
+      {
+       "nombre": "Hamdan",
+       "apellido": "Al-Ruwaili",
+       "posicion": "LD",
+       "nivel": 61,
+       "edad": 21
+      },
+      {
+       "nombre": "Nemanja",
+       "apellido": "Vasiljević",
+       "posicion": "DFC",
+       "nivel": 66,
+       "edad": 29
+      },
+      {
+       "nombre": "Abdullah",
+       "apellido": "Al-Salem",
+       "posicion": "DFC",
+       "nivel": 63,
+       "edad": 27
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Habib",
+       "posicion": "DFC",
+       "nivel": 58,
+       "edad": 20
+      },
+      {
+       "nombre": "Marcos",
+       "apellido": "Vinícius",
+       "posicion": "LI",
+       "nivel": 65,
+       "edad": 27
+      },
+      {
+       "nombre": "Nawaf",
+       "apellido": "Al-Otaibi",
+       "posicion": "LI",
+       "nivel": 62,
+       "edad": 24
+      },
+      {
+       "nombre": "Cheikh",
+       "apellido": "Ndiaye",
+       "posicion": "MCD",
+       "nivel": 66,
+       "edad": 26
+      },
+      {
+       "nombre": "Fahad",
+       "apellido": "Al-Dossari",
+       "posicion": "MCD",
+       "nivel": 64,
+       "edad": 25
+      },
+      {
+       "nombre": "Rayan",
+       "apellido": "Al-Harbi",
+       "posicion": "MC",
+       "nivel": 64,
+       "edad": 23
+      },
+      {
+       "nombre": "Mishal",
+       "apellido": "Al-Zahrani",
+       "posicion": "MC",
+       "nivel": 63,
+       "edad": 30
+      },
+      {
+       "nombre": "Matheus",
+       "apellido": "Ferrão",
+       "posicion": "MCO",
+       "nivel": 66,
+       "edad": 28
+      },
+      {
+       "nombre": "Naif",
+       "apellido": "Al-Hassan",
+       "posicion": "MD",
+       "nivel": 65,
+       "edad": 27
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Ghamdi",
+       "posicion": "MI",
+       "nivel": 63,
+       "edad": 22
+      },
+      {
+       "nombre": "Bilal",
+       "apellido": "Al-Shammari",
+       "posicion": "ED",
+       "nivel": 64,
+       "edad": 25
+      },
+      {
+       "nombre": "Petar",
+       "apellido": "Ilić",
+       "posicion": "EI",
+       "nivel": 65,
+       "edad": 24
+      },
+      {
+       "nombre": "Léo",
+       "apellido": "Cardoso",
+       "posicion": "DC",
+       "nivel": 66,
+       "edad": 29
+      },
+      {
+       "nombre": "Faisal",
+       "apellido": "Al-Amri",
+       "posicion": "DC",
+       "nivel": 60,
+       "edad": 21
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Khaleej",
+     "ciudad": "Saihat",
+     "reputacion": 58,
+     "color1": "#ffe114",
+     "color2": "#0a8f4c",
+     "estadio": "Prince Mohamed bin Fahd",
+     "capacidad_estadio": 22042,
+     "plantilla_escudo": 6,
+     "tactica": {
+      "formacion": "4-5-1",
+      "perfil": "DEFENSIVO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Douglas",
+       "apellido": "Ferrão",
+       "posicion": "POR",
+       "nivel": 68,
+       "edad": 32
+      },
+      {
+       "nombre": "Hamed",
+       "apellido": "Al-Suwailem",
+       "posicion": "POR",
+       "nivel": 57,
+       "edad": 22
+      },
+      {
+       "nombre": "Fahad",
+       "apellido": "Al-Ghamdi",
+       "posicion": "LD",
+       "nivel": 64,
+       "edad": 27
+      },
+      {
+       "nombre": "Nawaf",
+       "apellido": "Al-Otaibi",
+       "posicion": "LD",
+       "nivel": 56,
+       "edad": 21
+      },
+      {
+       "nombre": "Cléberson",
+       "apellido": "Duarte",
+       "posicion": "DFC",
+       "nivel": 67,
+       "edad": 29
+      },
+      {
+       "nombre": "Abdullah",
+       "apellido": "Al-Shammari",
+       "posicion": "DFC",
+       "nivel": 65,
+       "edad": 30
+      },
+      {
+       "nombre": "Saleh",
+       "apellido": "Al-Anazi",
+       "posicion": "DFC",
+       "nivel": 58,
+       "edad": 23
+      },
+      {
+       "nombre": "Majed",
+       "apellido": "Al-Harbi",
+       "posicion": "LI",
+       "nivel": 64,
+       "edad": 26
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Subaie",
+       "posicion": "LI",
+       "nivel": 55,
+       "edad": 20
+      },
+      {
+       "nombre": "Nasser",
+       "apellido": "Al-Dossari",
+       "posicion": "MCD",
+       "nivel": 65,
+       "edad": 28
+      },
+      {
+       "nombre": "Salman",
+       "apellido": "Al-Mutairi",
+       "posicion": "MCD",
+       "nivel": 60,
+       "edad": 24
+      },
+      {
+       "nombre": "Mohammed",
+       "apellido": "Al-Qahtani",
+       "posicion": "MC",
+       "nivel": 65,
+       "edad": 27
+      },
+      {
+       "nombre": "Rayan",
+       "apellido": "Al-Yami",
+       "posicion": "MC",
+       "nivel": 59,
+       "edad": 22
+      },
+      {
+       "nombre": "Miloš",
+       "apellido": "Stanojević",
+       "posicion": "MCO",
+       "nivel": 69,
+       "edad": 27
+      },
+      {
+       "nombre": "Abdulrahman",
+       "apellido": "Al-Amri",
+       "posicion": "MD",
+       "nivel": 63,
+       "edad": 25
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Buraik",
+       "posicion": "MI",
+       "nivel": 62,
+       "edad": 24
+      },
+      {
+       "nombre": "Ousmane",
+       "apellido": "Camara",
+       "posicion": "ED",
+       "nivel": 66,
+       "edad": 25
+      },
+      {
+       "nombre": "Ali",
+       "apellido": "Al-Nakhli",
+       "posicion": "EI",
+       "nivel": 64,
+       "edad": 26
+      },
+      {
+       "nombre": "Renato",
+       "apellido": "Cabral",
+       "posicion": "DC",
+       "nivel": 70,
+       "edad": 28
+      },
+      {
+       "nombre": "Khalid",
+       "apellido": "Al-Salem",
+       "posicion": "DC",
+       "nivel": 59,
+       "edad": 23
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Shabab",
+     "ciudad": "Riad",
+     "reputacion": 56,
+     "color1": "#ffffff",
+     "color2": "#111111",
+     "estadio": "SHG Arena",
+     "capacidad_estadio": 13537,
+     "plantilla_escudo": 3,
+     "tactica": {
+      "formacion": "4-4-2",
+      "perfil": "EQUILIBRADO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Marcelo",
+       "apellido": "Grohe",
+       "posicion": "POR",
+       "nivel": 74,
+       "edad": 39
+      },
+      {
+       "nombre": "Fahad",
+       "apellido": "Al-Otaibi",
+       "posicion": "POR",
+       "nivel": 58,
+       "edad": 26
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Shammari",
+       "posicion": "LD",
+       "nivel": 62,
+       "edad": 28
+      },
+      {
+       "nombre": "Meshal",
+       "apellido": "Al-Harbi",
+       "posicion": "LD",
+       "nivel": 56,
+       "edad": 22
+      },
+      {
+       "nombre": "Wesley",
+       "apellido": "Hoedt",
+       "posicion": "DFC",
+       "nivel": 74,
+       "edad": 32
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Ghamdi",
+       "posicion": "DFC",
+       "nivel": 61,
+       "edad": 29
+      },
+      {
+       "nombre": "Rayan",
+       "apellido": "Al-Dossari",
+       "posicion": "DFC",
+       "nivel": 57,
+       "edad": 24
+      },
+      {
+       "nombre": "Hassan",
+       "apellido": "Al-Amri",
+       "posicion": "LI",
+       "nivel": 60,
+       "edad": 27
+      },
+      {
+       "nombre": "Nasser",
+       "apellido": "Al-Subaie",
+       "posicion": "LI",
+       "nivel": 58,
+       "edad": 21
+      },
+      {
+       "nombre": "Vincent",
+       "apellido": "Sierro",
+       "posicion": "MCD",
+       "nivel": 74,
+       "edad": 30
+      },
+      {
+       "nombre": "Khaled",
+       "apellido": "Al-Mutairi",
+       "posicion": "MCD",
+       "nivel": 59,
+       "edad": 30
+      },
+      {
+       "nombre": "Josh",
+       "apellido": "Brownhill",
+       "posicion": "MC",
+       "nivel": 75,
+       "edad": 30
+      },
+      {
+       "nombre": "Yacine",
+       "apellido": "Adli",
+       "posicion": "MC",
+       "nivel": 76,
+       "edad": 26
+      },
+      {
+       "nombre": "Unai",
+       "apellido": "Hernández",
+       "posicion": "MCO",
+       "nivel": 72,
+       "edad": 21
+      },
+      {
+       "nombre": "Saad",
+       "apellido": "Al-Juwayr",
+       "posicion": "MD",
+       "nivel": 57,
+       "edad": 23
+      },
+      {
+       "nombre": "Majed",
+       "apellido": "Al-Rashidi",
+       "posicion": "MI",
+       "nivel": 60,
+       "edad": 25
+      },
+      {
+       "nombre": "Salem",
+       "apellido": "Al-Najrani",
+       "posicion": "ED",
+       "nivel": 56,
+       "edad": 20
+      },
+      {
+       "nombre": "Yannick",
+       "apellido": "Carrasco",
+       "posicion": "EI",
+       "nivel": 78,
+       "edad": 32
+      },
+      {
+       "nombre": "Abderrazak",
+       "apellido": "Hamdallah",
+       "posicion": "DC",
+       "nivel": 74,
+       "edad": 35
+      },
+      {
+       "nombre": "Bandar",
+       "apellido": "Al-Zahrani",
+       "posicion": "DC",
+       "nivel": 59,
+       "edad": 26
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Kholood",
+     "ciudad": "Ar Rass",
+     "reputacion": 54,
+     "color1": "#111111",
+     "color2": "#d0021b",
+     "estadio": "Al-Hazem Club Stadium",
+     "capacidad_estadio": 5100,
+     "plantilla_escudo": 7,
+     "tactica": {
+      "formacion": "5-4-1",
+      "perfil": "DEFENSIVO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Fahad",
+       "apellido": "Al-Suwailem",
+       "posicion": "POR",
+       "nivel": 63,
+       "edad": 28
+      },
+      {
+       "nombre": "Nawaf",
+       "apellido": "Al-Otaibi",
+       "posicion": "POR",
+       "nivel": 58,
+       "edad": 23
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Mutairi",
+       "posicion": "LD",
+       "nivel": 62,
+       "edad": 26
+      },
+      {
+       "nombre": "Meshal",
+       "apellido": "Al-Harbi",
+       "posicion": "LD",
+       "nivel": 57,
+       "edad": 21
+      },
+      {
+       "nombre": "Ivan",
+       "apellido": "Milosavljevic",
+       "posicion": "DFC",
+       "nivel": 63,
+       "edad": 29
+      },
+      {
+       "nombre": "Abdulrahman",
+       "apellido": "Al-Dossari",
+       "posicion": "DFC",
+       "nivel": 62,
+       "edad": 27
+      },
+      {
+       "nombre": "Saad",
+       "apellido": "Al-Shammari",
+       "posicion": "DFC",
+       "nivel": 60,
+       "edad": 24
+      },
+      {
+       "nombre": "Douglas",
+       "apellido": "Ferreira",
+       "posicion": "LI",
+       "nivel": 63,
+       "edad": 28
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Ghamdi",
+       "posicion": "LI",
+       "nivel": 58,
+       "edad": 22
+      },
+      {
+       "nombre": "Khalid",
+       "apellido": "Al-Anazi",
+       "posicion": "MCD",
+       "nivel": 62,
+       "edad": 29
+      },
+      {
+       "nombre": "Ousmane",
+       "apellido": "Camara",
+       "posicion": "MCD",
+       "nivel": 63,
+       "edad": 26
+      },
+      {
+       "nombre": "Ziyad",
+       "apellido": "Al-Qahtani",
+       "posicion": "MC",
+       "nivel": 61,
+       "edad": 25
+      },
+      {
+       "nombre": "Marko",
+       "apellido": "Jovanovic",
+       "posicion": "MC",
+       "nivel": 63,
+       "edad": 30
+      },
+      {
+       "nombre": "Rayan",
+       "apellido": "Al-Zahrani",
+       "posicion": "MCO",
+       "nivel": 63,
+       "edad": 24
+      },
+      {
+       "nombre": "Bandar",
+       "apellido": "Al-Shehri",
+       "posicion": "MD",
+       "nivel": 60,
+       "edad": 27
+      },
+      {
+       "nombre": "Hattan",
+       "apellido": "Al-Juhani",
+       "posicion": "MI",
+       "nivel": 59,
+       "edad": 23
+      },
+      {
+       "nombre": "Caio",
+       "apellido": "Santana",
+       "posicion": "ED",
+       "nivel": 63,
+       "edad": 27
+      },
+      {
+       "nombre": "Salem",
+       "apellido": "Al-Rashidi",
+       "posicion": "EI",
+       "nivel": 61,
+       "edad": 26
+      },
+      {
+       "nombre": "Emmanuel",
+       "apellido": "Okoye",
+       "posicion": "DC",
+       "nivel": 63,
+       "edad": 25
+      },
+      {
+       "nombre": "Majed",
+       "apellido": "Al-Sahafi",
+       "posicion": "DC",
+       "nivel": 56,
+       "edad": 20
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Riyadh",
+     "ciudad": "Riad",
+     "reputacion": 52,
+     "color1": "#ff0000",
+     "color2": "#000000",
+     "estadio": "SHG Arena",
+     "capacidad_estadio": 18063,
+     "plantilla_escudo": 8,
+     "tactica": {
+      "formacion": "5-3-2",
+      "perfil": "DEFENSIVO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Abdullah",
+       "apellido": "Al-Jadani",
+       "posicion": "POR",
+       "nivel": 63,
+       "edad": 28
+      },
+      {
+       "nombre": "Faisal",
+       "apellido": "Al-Harbi",
+       "posicion": "POR",
+       "nivel": 57,
+       "edad": 22
+      },
+      {
+       "nombre": "Saud",
+       "apellido": "Al-Mutairi",
+       "posicion": "LD",
+       "nivel": 61,
+       "edad": 26
+      },
+      {
+       "nombre": "Nawaf",
+       "apellido": "Al-Anazi",
+       "posicion": "LD",
+       "nivel": 55,
+       "edad": 21
+      },
+      {
+       "nombre": "Ivan",
+       "apellido": "Radonjic",
+       "posicion": "DFC",
+       "nivel": 63,
+       "edad": 29
+      },
+      {
+       "nombre": "Hassan",
+       "apellido": "Al-Qahtani",
+       "posicion": "DFC",
+       "nivel": 62,
+       "edad": 27
+      },
+      {
+       "nombre": "Majed",
+       "apellido": "Al-Shammari",
+       "posicion": "DFC",
+       "nivel": 59,
+       "edad": 24
+      },
+      {
+       "nombre": "Douglas",
+       "apellido": "Ferreira",
+       "posicion": "LI",
+       "nivel": 62,
+       "edad": 28
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Dossari",
+       "posicion": "LI",
+       "nivel": 54,
+       "edad": 20
+      },
+      {
+       "nombre": "Salem",
+       "apellido": "Al-Ghamdi",
+       "posicion": "MCD",
+       "nivel": 61,
+       "edad": 30
+      },
+      {
+       "nombre": "Mouctar",
+       "apellido": "Diabate",
+       "posicion": "MCD",
+       "nivel": 62,
+       "edad": 26
+      },
+      {
+       "nombre": "Fahad",
+       "apellido": "Al-Otaibi",
+       "posicion": "MC",
+       "nivel": 62,
+       "edad": 25
+      },
+      {
+       "nombre": "Khalid",
+       "apellido": "Al-Bishi",
+       "posicion": "MC",
+       "nivel": 59,
+       "edad": 23
+      },
+      {
+       "nombre": "Nikola",
+       "apellido": "Stankovic",
+       "posicion": "MCO",
+       "nivel": 63,
+       "edad": 27
+      },
+      {
+       "nombre": "Abdulrahman",
+       "apellido": "Al-Zahrani",
+       "posicion": "MD",
+       "nivel": 61,
+       "edad": 24
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Shehri",
+       "posicion": "MI",
+       "nivel": 60,
+       "edad": 26
+      },
+      {
+       "nombre": "Caio",
+       "apellido": "Mendes",
+       "posicion": "ED",
+       "nivel": 62,
+       "edad": 25
+      },
+      {
+       "nombre": "Yousef",
+       "apellido": "Al-Sahafi",
+       "posicion": "EI",
+       "nivel": 59,
+       "edad": 21
+      },
+      {
+       "nombre": "Emmanuel",
+       "apellido": "Okoye",
+       "posicion": "DC",
+       "nivel": 63,
+       "edad": 28
+      },
+      {
+       "nombre": "Mohammed",
+       "apellido": "Al-Amri",
+       "posicion": "DC",
+       "nivel": 62,
+       "edad": 29
+      }
+     ]
+    },
+    {
+     "nombre": "Damac",
+     "ciudad": "Khamis Mushait",
+     "reputacion": 50,
+     "color1": "#d0021b",
+     "color2": "#ffffff",
+     "estadio": "Damac Club Stadium",
+     "capacidad_estadio": 3800,
+     "plantilla_escudo": 1,
+     "tactica": {
+      "formacion": "5-4-1",
+      "perfil": "DEFENSIVO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Abdullah",
+       "apellido": "Al-Jadaani",
+       "posicion": "POR",
+       "nivel": 61,
+       "edad": 28
+      },
+      {
+       "nombre": "Fahad",
+       "apellido": "Al-Harbi",
+       "posicion": "POR",
+       "nivel": 56,
+       "edad": 22
+      },
+      {
+       "nombre": "Saad",
+       "apellido": "Al-Nasser",
+       "posicion": "LD",
+       "nivel": 60,
+       "edad": 26
+      },
+      {
+       "nombre": "Hassan",
+       "apellido": "Al-Qarni",
+       "posicion": "LD",
+       "nivel": 55,
+       "edad": 21
+      },
+      {
+       "nombre": "Emerson",
+       "apellido": "Batista",
+       "posicion": "DFC",
+       "nivel": 64,
+       "edad": 29
+      },
+      {
+       "nombre": "Nawaf",
+       "apellido": "Al-Shahrani",
+       "posicion": "DFC",
+       "nivel": 61,
+       "edad": 27
+      },
+      {
+       "nombre": "Marko",
+       "apellido": "Jovanic",
+       "posicion": "DFC",
+       "nivel": 63,
+       "edad": 30
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Ghamdi",
+       "posicion": "LI",
+       "nivel": 58,
+       "edad": 25
+      },
+      {
+       "nombre": "Majed",
+       "apellido": "Al-Amri",
+       "posicion": "LI",
+       "nivel": 54,
+       "edad": 20
+      },
+      {
+       "nombre": "Abdoulaye",
+       "apellido": "Sylla",
+       "posicion": "MCD",
+       "nivel": 62,
+       "edad": 27
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Mutairi",
+       "posicion": "MCD",
+       "nivel": 59,
+       "edad": 24
+      },
+      {
+       "nombre": "Khalid",
+       "apellido": "Al-Dossari",
+       "posicion": "MC",
+       "nivel": 61,
+       "edad": 26
+      },
+      {
+       "nombre": "Faisal",
+       "apellido": "Al-Subaie",
+       "posicion": "MC",
+       "nivel": 57,
+       "edad": 23
+      },
+      {
+       "nombre": "Caua",
+       "apellido": "Ribeiro",
+       "posicion": "MCO",
+       "nivel": 65,
+       "edad": 26
+      },
+      {
+       "nombre": "Salem",
+       "apellido": "Al-Zahrani",
+       "posicion": "MD",
+       "nivel": 60,
+       "edad": 28
+      },
+      {
+       "nombre": "Rayan",
+       "apellido": "Al-Bishi",
+       "posicion": "MI",
+       "nivel": 58,
+       "edad": 22
+      },
+      {
+       "nombre": "Luan",
+       "apellido": "Cardoso",
+       "posicion": "ED",
+       "nivel": 64,
+       "edad": 27
+      },
+      {
+       "nombre": "Mubarak",
+       "apellido": "Al-Asmari",
+       "posicion": "EI",
+       "nivel": 59,
+       "edad": 24
+      },
+      {
+       "nombre": "Emmanuel",
+       "apellido": "Okonkwo",
+       "posicion": "DC",
+       "nivel": 66,
+       "edad": 28
+      },
+      {
+       "nombre": "Ibrahim",
+       "apellido": "Al-Shamrani",
+       "posicion": "DC",
+       "nivel": 56,
+       "edad": 21
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Okhdood",
+     "ciudad": "Najran",
+     "reputacion": 48,
+     "color1": "#8ac3ee",
+     "color2": "#ffffff",
+     "estadio": "Prince Hathloul Sports City",
+     "capacidad_estadio": 12000,
+     "plantilla_escudo": 5,
+     "tactica": {
+      "formacion": "5-4-1",
+      "perfil": "DEFENSIVO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Wanderson",
+       "apellido": "Galvão",
+       "posicion": "POR",
+       "nivel": 61,
+       "edad": 29
+      },
+      {
+       "nombre": "Abdullah",
+       "apellido": "Al-Yami",
+       "posicion": "POR",
+       "nivel": 59,
+       "edad": 24
+      },
+      {
+       "nombre": "Fahad",
+       "apellido": "Al-Harbi",
+       "posicion": "LD",
+       "nivel": 59,
+       "edad": 26
+      },
+      {
+       "nombre": "Nawaf",
+       "apellido": "Al-Qumairi",
+       "posicion": "LD",
+       "nivel": 52,
+       "edad": 21
+      },
+      {
+       "nombre": "Blagoje",
+       "apellido": "Mitrović",
+       "posicion": "DFC",
+       "nivel": 61,
+       "edad": 30
+      },
+      {
+       "nombre": "Hamdan",
+       "apellido": "Al-Rubaie",
+       "posicion": "DFC",
+       "nivel": 59,
+       "edad": 28
+      },
+      {
+       "nombre": "Mansour",
+       "apellido": "Al-Shamrani",
+       "posicion": "DFC",
+       "nivel": 60,
+       "edad": 23
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Dossari",
+       "posicion": "LI",
+       "nivel": 59,
+       "edad": 27
+      },
+      {
+       "nombre": "Rayan",
+       "apellido": "Al-Sulami",
+       "posicion": "LI",
+       "nivel": 50,
+       "edad": 20
+      },
+      {
+       "nombre": "Ousmane",
+       "apellido": "Diallo",
+       "posicion": "MCD",
+       "nivel": 61,
+       "edad": 27
+      },
+      {
+       "nombre": "Khaled",
+       "apellido": "Al-Ghamdi",
+       "posicion": "MCD",
+       "nivel": 60,
+       "edad": 25
+      },
+      {
+       "nombre": "Saleh",
+       "apellido": "Al-Amri",
+       "posicion": "MC",
+       "nivel": 59,
+       "edad": 29
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Mutairi",
+       "posicion": "MC",
+       "nivel": 59,
+       "edad": 22
+      },
+      {
+       "nombre": "Matheus",
+       "apellido": "Farias",
+       "posicion": "MCO",
+       "nivel": 61,
+       "edad": 26
+      },
+      {
+       "nombre": "Abdulrahman",
+       "apellido": "Al-Zahrani",
+       "posicion": "MD",
+       "nivel": 58,
+       "edad": 24
+      },
+      {
+       "nombre": "Majed",
+       "apellido": "Al-Najrani",
+       "posicion": "MI",
+       "nivel": 58,
+       "edad": 23
+      },
+      {
+       "nombre": "Yassine",
+       "apellido": "Benkhaled",
+       "posicion": "ED",
+       "nivel": 61,
+       "edad": 28
+      },
+      {
+       "nombre": "Hattan",
+       "apellido": "Al-Saqqaf",
+       "posicion": "EI",
+       "nivel": 58,
+       "edad": 26
+      },
+      {
+       "nombre": "Cléberson",
+       "apellido": "Duarte",
+       "posicion": "DC",
+       "nivel": 61,
+       "edad": 29
+      },
+      {
+       "nombre": "Naif",
+       "apellido": "Al-Khathami",
+       "posicion": "DC",
+       "nivel": 54,
+       "edad": 21
+      }
+     ]
+    },
+    {
+     "nombre": "Al-Najma",
+     "ciudad": "Unaizah",
+     "reputacion": 46,
+     "color1": "#1f3a93",
+     "color2": "#ffffff",
+     "estadio": "King Abdullah Sport City Buraidah",
+     "capacidad_estadio": 30180,
+     "plantilla_escudo": 3,
+     "tactica": {
+      "formacion": "5-4-1",
+      "perfil": "DEFENSIVO"
+     },
+     "jugadores": [
+      {
+       "nombre": "Abdullah",
+       "apellido": "Al-Owaishir",
+       "posicion": "POR",
+       "nivel": 60,
+       "edad": 28
+      },
+      {
+       "nombre": "Saud",
+       "apellido": "Al-Mutairi",
+       "posicion": "POR",
+       "nivel": 55,
+       "edad": 22
+      },
+      {
+       "nombre": "Nawaf",
+       "apellido": "Al-Qahtani",
+       "posicion": "LD",
+       "nivel": 58,
+       "edad": 26
+      },
+      {
+       "nombre": "Turki",
+       "apellido": "Al-Shammari",
+       "posicion": "LD",
+       "nivel": 56,
+       "edad": 23
+      },
+      {
+       "nombre": "Moussa",
+       "apellido": "Diarra",
+       "posicion": "DFC",
+       "nivel": 60,
+       "edad": 27
+      },
+      {
+       "nombre": "Hamdan",
+       "apellido": "Al-Dossari",
+       "posicion": "DFC",
+       "nivel": 59,
+       "edad": 29
+      },
+      {
+       "nombre": "Salman",
+       "apellido": "Al-Amri",
+       "posicion": "DFC",
+       "nivel": 56,
+       "edad": 21
+      },
+      {
+       "nombre": "Yasser",
+       "apellido": "Al-Zahrani",
+       "posicion": "LI",
+       "nivel": 58,
+       "edad": 27
+      },
+      {
+       "nombre": "Meshal",
+       "apellido": "Al-Subaie",
+       "posicion": "LI",
+       "nivel": 56,
+       "edad": 24
+      },
+      {
+       "nombre": "Nemanja",
+       "apellido": "Vukovic",
+       "posicion": "MCD",
+       "nivel": 60,
+       "edad": 29
+      },
+      {
+       "nombre": "Abdulrahman",
+       "apellido": "Al-Ghamdi",
+       "posicion": "MCD",
+       "nivel": 57,
+       "edad": 25
+      },
+      {
+       "nombre": "Khalid",
+       "apellido": "Al-Juhani",
+       "posicion": "MC",
+       "nivel": 59,
+       "edad": 28
+      },
+      {
+       "nombre": "Sultan",
+       "apellido": "Al-Anazi",
+       "posicion": "MC",
+       "nivel": 57,
+       "edad": 22
+      },
+      {
+       "nombre": "Matheus",
+       "apellido": "Ferreira",
+       "posicion": "MCO",
+       "nivel": 60,
+       "edad": 27
+      },
+      {
+       "nombre": "Faisal",
+       "apellido": "Al-Sahli",
+       "posicion": "MD",
+       "nivel": 57,
+       "edad": 24
+      },
+      {
+       "nombre": "Rayan",
+       "apellido": "Al-Bishi",
+       "posicion": "MI",
+       "nivel": 57,
+       "edad": 23
+      },
+      {
+       "nombre": "Carlinhos",
+       "apellido": "Moura",
+       "posicion": "ED",
+       "nivel": 60,
+       "edad": 26
+      },
+      {
+       "nombre": "Majed",
+       "apellido": "Al-Yami",
+       "posicion": "EI",
+       "nivel": 57,
+       "edad": 25
+      },
+      {
+       "nombre": "Wesley",
+       "apellido": "Batista",
+       "posicion": "DC",
+       "nivel": 60,
+       "edad": 28
+      },
+      {
+       "nombre": "Ziyad",
+       "apellido": "Al-Salem",
+       "posicion": "DC",
+       "nivel": 58,
+       "edad": 30
+      }
+     ]
+    }
+   ]
   }
  ]
 }
